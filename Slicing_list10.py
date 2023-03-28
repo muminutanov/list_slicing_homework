@@ -10,4 +10,4 @@ def main(list1,n):
     
     
     
-    return (s[n:k:])
+    return 
